@@ -1,10 +1,22 @@
+
 .fontPassion {
+    /*Google font for top fixed bar*/
     font-family: 'Passion One', cursive;
     color: black;
 }
-.towermargin {
-    margin-top: 30px;
-}
 .singLogButton {
+    /*Top right button color*/
     background-color: lightgray;
+}
+.towerImagePortfolio {
+    height=200px;
+    width=150px;
+    position: fixed;
+    float: left;
+    padding-right: 90%;
+    margin-top: 70px;
+}
+.towerImage {
+    margin-top:50px;
+    sz-index:-1;
 }
