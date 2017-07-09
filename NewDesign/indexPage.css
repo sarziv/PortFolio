@@ -1,0 +1,36 @@
+/*-----Color Sets*/
+.setOne {
+    background-color: #A8216B;
+}
+.setTwo {
+    background-color: #EC1B4B;
+}
+.setThree {
+    background-color: #F26A44;
+}
+.setFourth {
+    background-color: #F7DB69;
+}
+.setFifth {
+    background-color: #2E9598;
+}
+
+/* -----Fonts */
+
+.fontPlay {
+    margin-top: 40px;
+    font-family: 'Play', sans-serif;
+}
+.fontCizael {
+    font-family: 'Cinzel', serif;
+}
+/* -----Size */
+.topTitle {
+    height: 200px;
+}
+.menuStyle {
+    font-size: 120%;
+    height: 120px;
+    font-weight: bold;
+    padding-top: 8px;
+}

@@ -9,9 +9,8 @@
     background-color: lightgray;
 }
 .towerImagePortfolio {
-    height=200px;
-    width=150px;
-    position: fixed;
+
+    position: absolute;
     float: left;
     padding-right: 90%;
     margin-top: 70px;
