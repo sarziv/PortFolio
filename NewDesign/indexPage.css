@@ -1,18 +1,18 @@
 /*-----Color Sets*/
 .setOne {
-    background-color: #A8216B;
+    background-color: #44af69;
 }
 .setTwo {
-    background-color: #EC1B4B;
+    background-color: #f8333c;
 }
 .setThree {
-    background-color: #F26A44;
+    background-color: #ffffba;
 }
 .setFourth {
-    background-color: #F7DB69;
+    background-color: #fcab10;
 }
 .setFifth {
-    background-color: #2E9598;
+    background-color: #2b9eb3;
 }
 
 /* -----Fonts */
@@ -26,11 +26,22 @@
 }
 /* -----Size */
 .topTitle {
+    color: #000000;
     height: 200px;
 }
-.menuStyle {
-    font-size: 120%;
-    height: 120px;
-    font-weight: bold;
-    padding-top: 8px;
+
+body {
+    background-image: url("subway-lines.png");
+    background-repeat: repeat;
+}
+.barCN {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.borderBot {
+    margin-right: 40px;
+    margin-left: 40px;
+    border-bottom: 3px white solid;
+    border-radius: 6px;
 }
