@@ -1,0 +1,49 @@
+/*-----Body settings*/
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+/*----- Video settings*/
+video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+    transition: 1s opacity;
+}
+
+.fontPlay {
+    margin-top: 40px;
+    font-family: 'Play', sans-serif;
+}
+.topTitle {
+    width: 600px;
+    font-size: 45px;
+    color: #ffffff;
+    height: 200px;
+}
+
+.container-mid {
+    z-index: 10;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttonMainPage {
+    border: 2px white solid;
+    background-color: transparent;
+}
+.spanpaddtop {
+    font-size: 30px;
+}
+.minisrift {
+    font-size: 10px;
+}
