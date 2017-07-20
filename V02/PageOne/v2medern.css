@@ -24,8 +24,10 @@ video {
     font-family: 'Play', sans-serif;
 }
 .topTitle {
+    border-radius: 8px;
     width: 600px;
     font-size: 45px;
+    background: rgba(0,0,0,0.4);
     color: #ffffff;
     height: 200px;
 }
@@ -38,6 +40,7 @@ video {
     align-items: center;
 }
 .buttonMainPage {
+    margin-top: 10px;
     border: 2px white solid;
     background-color: transparent;
 }
@@ -45,5 +48,6 @@ video {
     font-size: 30px;
 }
 .minisrift {
-    font-size: 10px;
+    margin-top: 15px;
+    font-size: 12px;
 }
